@@ -49,5 +49,13 @@ uvicorn main:app --reload
 Add your Gemini API key from the app's **Settings** page to enable the AI assistant. Without it, the app uses the offline matcher.
 
 ## 👩‍💻 Author
-**Purva Uttekar**: B.Tech, Artificial Intelligence & Data Science
+**Purva Uttekar**: Second Year in B.E, Artificial Intelligence & Data Science
 [LinkedIn](https://www.linkedin.com/in/purvauttekar1397) · [GitHub](https://github.com/purvauttekar07-ux)
+<img width="537" height="833" alt="Screenshot 2026-10-09 154624" src="https://github.com/user-attachments/assets/5cfcf963-6dc0-4e42-86cb-36ca9152458c" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-09 154557" src="https://github.com/user-attachments/assets/2119391a-61e2-4a5b-958a-b6089a477320" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-09 154519" src="https://github.com/user-attachments/assets/a9654c80-1de6-4f2b-a82f-da6d32254045" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-09 154459" src="https://github.com/user-attachments/assets/9e92e76b-2a3c-44c8-a07d-301f1ce0d7d7" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-09 154445" src="https://github.com/user-attachments/assets/332d5dc7-93fc-41bf-bdfe-9c3556bd84ae" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-09 154425" src="https://github.com/user-attachments/assets/5cf0c9c0-f891-4a53-981d-fd0722add8a9" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-09 154232" src="https://github.com/user-attachments/assets/b4d629ea-9ffb-48f2-ab89-356364d342eb" />
+
