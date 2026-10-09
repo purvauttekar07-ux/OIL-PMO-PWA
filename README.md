@@ -50,4 +50,4 @@ Add your Gemini API key from the app's **Settings** page to enable the AI assist
 
 ## 👩‍💻 Author
 **Purva Uttekar**: B.Tech, Artificial Intelligence & Data Science
-[LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/purvauttekar07-ux)
+[LinkedIn](https://www.linkedin.com/in/purvauttekar1397) · [GitHub](https://github.com/purvauttekar07-ux)
